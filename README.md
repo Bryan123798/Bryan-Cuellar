@@ -26,6 +26,11 @@
     alt="Typescript">
     &nbsp;&nbsp;&nbsp;&nbsp;
   <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"
+    width="60px"
+    alt="Php"
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"
     width="60px"
     alt="HTML5">
