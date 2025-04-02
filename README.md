@@ -8,3 +8,16 @@
 <!-- STACK -->
 <div align="center" width="100">
   <h1>Stack</h1>
+<!-- Languages -->
+  </br>
+  <h3>Languages</h3>
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
+    width="60px"
+    alt="Java">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/groovy/groovy-original.svg"
+    width="60px"
+    alt="Groovy">
+    &nbsp;&nbsp;&nbsp;&nbsp;
