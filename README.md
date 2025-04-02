@@ -16,4 +16,9 @@
     width="60px"
     alt="Java">
     &nbsp;&nbsp;&nbsp;&nbsp;
-  
+
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+    width="60px"
+    alt="Javascript">
+    &nbsp;&nbsp;&nbsp;&nbsp;
