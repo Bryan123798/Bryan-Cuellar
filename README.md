@@ -48,7 +48,7 @@
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg"
     width="60px"
-    alt="Spring (Spring-boot)">
+    alt="Spring">
     &nbsp;&nbsp;&nbsp;&nbsp;
 <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring-boot/spring-boot-original-wordmark.svg"
