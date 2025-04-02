@@ -50,11 +50,7 @@
     width="60px"
     alt="Spring (Spring-boot)">
     &nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://logodix.com/logo/699172.png"
-    width="60px"
-    alt="Maven">
-    &nbsp;&nbsp;&nbsp;
+
 
   </br>
 
