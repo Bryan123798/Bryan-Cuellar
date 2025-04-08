@@ -55,6 +55,11 @@
     width="60px"
     alt="React">
     &nbsp;&nbsp;&nbsp;&nbsp;
+    <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg"
+    width="60px"
+    alt="Laravel">
+    &nbsp;&nbsp;&nbsp;&nbsp;
   
 <!-- Storages -->
   </br>
