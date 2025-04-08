@@ -75,11 +75,6 @@
     alt="PostgreSQL">
     &nbsp;&nbsp;&nbsp;&nbsp;
   <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sql-server/sql-server-original-wordmark.svg"
-    width="60px"
-    alt="SqlServer">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-  <img
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sql-server/sql-server-original-wordmark.svg"
   width="60px"
   alt="SQL Server" />
